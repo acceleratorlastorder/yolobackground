@@ -1,0 +1,30 @@
+body{
+  background: linear-gradient(290deg, #16ecb5, #5aec16, #ec8016, #ec1616, #ec16c8, #7916ec, #1640ec, #16d7ec, #16ec86, #16ec57);
+  background-size: 2000% 2000%;
+  -webkit-animation: yolobackground 2s ease infinite;
+  -moz-animation: yolobackground 2s ease infinite;
+  -o-animation: yolobackground 2s ease infinite;
+  animation: yolobackground 2s ease infinite;
+
+}
+
+@-webkit-keyframes yolobackground {
+   0%{background-position:0% 5%}
+   50%{background-position:100% 96%}
+   100%{background-position:0% 5%}
+}
+@-moz-keyframes yolobackground {
+   0%{background-position:0% 5%}
+   50%{background-position:100% 96%}
+   100%{background-position:0% 5%}
+}
+@-o-keyframes yolobackground {
+   0%{background-position:0% 5%}
+   50%{background-position:100% 96%}
+   100%{background-position:0% 5%}
+}
+@keyframes yolobackground {
+   0%{background-position:0% 5%}
+   50%{background-position:100% 96%}
+   100%{background-position:0% 5%}
+}
