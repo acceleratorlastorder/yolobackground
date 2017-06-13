@@ -1,11 +1,10 @@
 body{
   background: linear-gradient(290deg, #16ecb5, #5aec16, #ec8016, #ec1616, #ec16c8, #7916ec, #1640ec, #16d7ec, #16ec86, #16ec57);
   background-size: 2000% 2000%;
-  -webkit-animation: yolobackground 2s ease infinite;
-  -moz-animation: yolobackground 2s ease infinite;
-  -o-animation: yolobackground 2s ease infinite;
-  animation: yolobackground 2s ease infinite;
-
+  -webkit-animation: yolobackground 0.01s ease infinite;
+  -moz-animation: yolobackground 0.01s ease infinite;
+  -o-animation: yolobackground 0.01s ease infinite;
+  animation: yolobackground 0.01s ease infinite;
 }
 
 @-webkit-keyframes yolobackground {
