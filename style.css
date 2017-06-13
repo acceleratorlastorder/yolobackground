@@ -6,7 +6,10 @@ body{
   -o-animation: yolobackground 0.01s ease infinite;
   animation: yolobackground 0.01s ease infinite;
 }
+audio{
+display: none;
 
+}
 @-webkit-keyframes yolobackground {
    0%{background-position:0% 5%}
    50%{background-position:100% 96%}
